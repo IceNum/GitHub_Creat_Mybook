@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 创建的第一个 gitHub Pages 博客界面，瞎胡闹
+多谢兄台指教[傻瓜都可以利用github pages建博客](http://cyzus.github.io/2015/06/21/github-build-blog/)
 
 ```markdown
 Syntax highlighted code block
